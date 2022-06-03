@@ -1,0 +1,75 @@
+<?xml version= "1.0" encoding="UTF-8" standalone="yes"?>
+<resume>
+       <Personal information>
+	    <first_name>Mikhail</first_name>
+	    <last_name>Zhurlov</last_name>
+	    <patronymic>Alexandrovich</patronymic>
+	    <age>28</age>
+	    <email>Mishka55405@yandex.ru</email>
+	    <phone>89516883589</email>
+	    <telegram>https://t.me/Zhurlov1</telegram>
+	    <gitHub>https://github.com/MikhailZhurlov</gitHub>
+	    <interests>testing,table tennis</interests>
+	    <city>Saint - Petersburg</city>
+       </Personal information>
+
+       <Skills>
+	    <Qa Engineer>
+		    <skill_1>testing theory</skill_1>
+		    <skill_2>test-case</skill_2>
+		    <skill_3>check-list</skill_3>
+		    <skill_4>test-plane</skill_4>
+		    <skill_5>bug reporting</skill_5>
+		    <skill_6>test analysis</skill_6>
+		    <skill_7>test design</skill_7>
+		    <skill_8>functional testing</skill_8>
+		    <skill_9>regression testing</skill_9>
+		    <skill_10>unit testing</skill_10>
+		    <skill_11>user interface testing</skill_11>
+		    <skill_12>client server architecture</skill_12>
+		    <skill_13>testing web applications</skill_13>
+		    <skill_14>devtools</skill_14>
+		    <skill_15>charles proxy</skill_15>
+		    <skill_16>http,https</skill_16>
+		    <skill_17>soap,xml</skill_17>
+		    <skill_18>rest, json</skill_18>
+		    <skill_19>testing mobile applications</skill_19>
+		    <skill_20>removing logs in the emulator</skill_20>
+		    <skill_21>git</skill_21>
+		    <skill_22>postgreSQL</skill_22>
+	    </Qa Engineer>
+    </Skills>
+
+    <Work experience>
+	    <yandex practicum>
+		    <position>Qa Engineer</position>
+		    <startDate>2022.01.13</startDate>
+		    <endDate>2022.05.26</endDate>
+	    </yandex practicum>
+
+	    <geoscan aero>
+		    <position_2>Quadcopter Assembler</position_2>
+		    <startDate_1>2015.05.10</startDate_1>
+		    <endDate_1>2018.01.12</endDate_1>
+	    </geoscan aero>
+    </Work experience>
+
+    <Education>
+	    <courses>
+		    <name courses>Yandex Practicum, qa engineer</name courses>
+		    <start_date>2022.01.13</start_date>
+		    <end_date>2022.05.26</start_date>
+	    </courses>
+
+	    <college>
+		    <name college>Taganrog Metallurgical</name college>
+		    <specialization>installation and technical operation of industrial equipment</specialization>
+		    <start_Date1>2009.09.01</start_Date1>
+		    <end_Date2>2013.06.01</end_Date2>
+	    </college>
+    </Education>
+  </resume>
+
+
+
+
